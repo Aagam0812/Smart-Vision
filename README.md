@@ -28,6 +28,9 @@
 # To run code
 - python manage.py runserver
 
+# Django frontend path
+- /testing
+
 # Functionalites
 - Object Detection
 - Depth estimation
