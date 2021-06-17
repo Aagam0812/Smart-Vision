@@ -28,6 +28,11 @@
 # To run code
 - python manage.py runserver
 
+# Functionalites
+- Object Detection
+- Depth estimation
+- Speech OCR
+- Speech Alerts/feedback
 
 # Some glimpse
 ![a2](https://user-images.githubusercontent.com/54525273/122366655-5fca0680-cf79-11eb-9bbf-997ceff197ac.JPG)
